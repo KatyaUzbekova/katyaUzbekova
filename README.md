@@ -7,6 +7,10 @@
 
 ![Static Badge](https://img.shields.io/badge/swift-language-blue)
 
+### Projects
+
+//TODO: add images of my projects
+
 ### My contacts <img src="https://github.com/KatyaUzbekova/KatyaUzbekova/blob/main/iphonelove.webp" width="600" border="0" align="right" alt="side Image" /> &nbsp;  
 
 <a href="https://t.me/katya_uzbekova">
