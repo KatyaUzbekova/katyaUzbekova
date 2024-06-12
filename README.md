@@ -7,7 +7,7 @@
 
 ![Static Badge](https://img.shields.io/badge/swift-language-blue)
 
-### My contacts <img src="https://github.com/KatyaUzbekova/KatyaUzbekova/blob/main/iphonelove.webp" width="600" border="0" align="left" alt="side Image" /> &nbsp;  
+### My contacts <img src="https://github.com/KatyaUzbekova/KatyaUzbekova/blob/main/iphonelove.webp" width="600" border="0" align="center" alt="side Image" /> &nbsp;  
 
 <a href="https://t.me/katya_uzbekova">
   <img src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
