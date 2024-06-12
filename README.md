@@ -11,7 +11,7 @@
 
 //TODO: add images of my projects
 
-### My contacts <img src="https://github.com/KatyaUzbekova/KatyaUzbekova/blob/main/apple.jpeg" width="200" border="0" align="right" alt="side Image" /> &nbsp;  
+### My contacts <img src="https://github.com/KatyaUzbekova/KatyaUzbekova/blob/main/apple.jpeg" width="100" border="0" align="left" alt="side Image" /> &nbsp;  
 
 <a href="https://t.me/katya_uzbekova">
   <img src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
