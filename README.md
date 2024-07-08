@@ -16,3 +16,6 @@
 <a href="https://t.me/katya_uzbekova">
   <img src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
 </a>
+
+### My favorite books, related to work
+- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
