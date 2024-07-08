@@ -11,14 +11,13 @@
 
 //TODO: add images of my projects
 
+
+### My favorite books, related to work
+- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+
+
 ### My contacts <img src="https://github.com/KatyaUzbekova/KatyaUzbekova/blob/main/apple.jpeg" width="100" border="0" align="left" alt="side Image" /> &nbsp;  
 
 <a href="https://t.me/katya_uzbekova">
   <img src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
 </a>
-
-
-
-
-### My favorite books, related to work
-- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
