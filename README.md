@@ -13,8 +13,8 @@
 
 
 ### My favorite books, related to work
-- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win, Gene Kim
-- The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity, Alan Cooper
+- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win, Gene Kim (Проект «Феникс». Роман о том, как DevOps меняет бизнес к лучшему)
+- The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity, Alan Cooper (Психбольница в руках пациентов)
 
 ###
 
