@@ -13,7 +13,8 @@
 
 
 ### My favorite books, related to work
-- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win, Gene Kim
+- The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity, Alan Cooper
 
 ###
 
