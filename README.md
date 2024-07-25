@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Katya, </h1>
+<h1 align="center">Hi there 👋 I'm Katya </h1>
 <h3 align="center">I am 25 years old, and I am an iOS developer</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=katyaUzbekova&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
