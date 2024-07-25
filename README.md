@@ -3,7 +3,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=katyaUzbekova&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katyaUzbekova&layout=compact&theme=gotham&custom_title=Statistics)  
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=katyaUzbekova)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=katyaUzbekova&layout=compact)
 
 ### Interested in these technologies
 
