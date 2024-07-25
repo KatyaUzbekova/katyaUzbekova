@@ -8,6 +8,8 @@
 ### Interested in these technologies
 
 ![Static Badge](https://img.shields.io/badge/swift-language-blue)
+- nivelir
+- needle
 
 ### Projects
 
@@ -17,8 +19,10 @@
 ### My favorite books, related to work
 - The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win, Gene Kim (Проект «Феникс». Роман о том, как DevOps меняет бизнес к лучшему)
 - The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity, Alan Cooper (Психбольница в руках пациентов)
+- Сначала нарушьте все правила. Что лучшие в мире менеджеры делают по-другому, Маркус Бакингем
 
-###
+### My favorite videos
+//TODO: add videos links of my projects
 
 ### My contacts <img src="https://github.com/KatyaUzbekova/KatyaUzbekova/blob/main/apple.jpeg" width="100" border="0" align="left" alt="side Image" /> &nbsp;  
 
