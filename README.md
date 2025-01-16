@@ -21,6 +21,8 @@
 - The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity, Alan Cooper (Психбольница в руках пациентов)
 - Сначала нарушьте все правила. Что лучшие в мире менеджеры делают по-другому, Маркус Бакингем
 
+- Unit Testing: Principle, Practies, and Patterns, Владимир Хориков
+
 ### My favorite videos
 //TODO: add videos links of my projects
 
